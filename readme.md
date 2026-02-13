@@ -1,2 +1,2 @@
 # new program 
-this was created was local syaytem
+this was created was local system
